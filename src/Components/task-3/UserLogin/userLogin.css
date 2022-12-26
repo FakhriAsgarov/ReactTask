@@ -1,0 +1,38 @@
+.loginPage {
+    margin: 20px auto;
+    width: 500px;
+    height: 300px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px,
+        rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+label {
+    display: block;
+    margin: auto;
+    text-align: center;
+
+}
+
+input {
+    display: block;
+    width: 80%;
+    margin: 20px auto;
+    height: 30px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 50px;
+    background-size: 200% 200%;
+    color: black;
+    background-image: 
+linear-gradient(to right, #ee4444 50%, transparent 50%);
+transition: 0.2s linear;
+}
+
+button:hover {
+    background-image: 
+    linear-gradient(to right, #A72424 51%, transparent 50%);
+    background-position: 100% 0
+}

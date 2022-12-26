@@ -1,0 +1,11 @@
+aside{
+    width: 30%;
+    border-right:2px solid black;
+}
+main{
+    width: 60%;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}

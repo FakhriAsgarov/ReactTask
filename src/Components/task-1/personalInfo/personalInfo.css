@@ -1,0 +1,15 @@
+h1,p,h3,h2{
+    text-align: center;
+}
+hr:first-of-type{
+    width: 40%;
+}
+hr{
+    margin: auto;
+}
+p{
+    font-style: italic;
+}
+b{
+    font-size: 50px;
+}
